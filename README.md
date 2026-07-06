@@ -1,6 +1,6 @@
 # Sameer Sabir
 
-### Senior Frontend Engineer | React, Next.js, React Native
+### Senior Frontend Engineer | React, Next.js, React Native | Agentic AI Development
 
 I design and build responsive, accessible, and performant web and mobile products. My core focus is turning ideas, Figma designs, and complex workflows into polished production applications with React, Next.js, TypeScript, Tailwind CSS, and React Native.
 
@@ -85,29 +85,33 @@ I am based in Lahore and work remotely with clients worldwide, including the USA
 
 Completed a four-year computer science program focused on software development, algorithms, data structures, and modern web and mobile technologies.
 
-## Featured Projects
+## Projects
 
 | Project | Summary | Stack |
 | --- | --- | --- |
-| CertsLibrary - SaaS Platform | Multi-tenant SaaS platform with AI-powered content generation. | Next.js, TypeScript, React |
-| Reflys - Chat & Influencer Marketing Platform | Interactive web app with smooth animations and real-time data interaction. | Next.js, React.js, TypeScript |
-| Procurement League - Digital B2B Commerce Platform | Revamped procurement platform with optimized data loading and caching. | React.js, GraphQL, Apollo Client |
-| Sourcing Genie | Mobile app with optimized performance and efficient data handling. | React Native, GraphQL, Apollo Client |
+| [Bechly.pk - Classified Marketplace Platform](https://bechly.pk/) | Nationwide classifieds marketplace with web and mobile app experiences. | React.js, Next.js, React Native |
+| [Reflys - Chat & Influencer Marketing Platform](https://reflys.com/) | Interactive web app with smooth animations and real-time data interaction. | Next.js, React.js, TypeScript |
+| [CertsLibrary - SaaS Platform](https://www.certslibrary.com/) | Multi-tenant SaaS platform with AI-powered content generation. | Next.js, TypeScript, React |
+| [Procurement League - Digital B2B Commerce Platform](https://procurementleague.com/) | Revamped procurement platform with optimized data loading and caching. | React.js, GraphQL, Apollo Client |
+| [Sourcing Genie](https://play.google.com/store/apps/details?id=com.sourcinggenie&hl=en) | Mobile app with optimized performance and efficient data handling. | React Native, GraphQL, Apollo Client |
+| [AuditWave - Production-Grade Website Audit Platform](https://auditwave.vercel.app) | Website audit platform with multi-device testing, performance analysis, accessibility checks, and detailed reports. | Next.js, React, Playwright |
+| [Evea - Modern SaaS Landing Page](https://evea-alpha.vercel.app) | High-performance SaaS landing page with modular sections and smooth navigation. | Next.js 15, React 19, TypeScript |
 
 ## Services
 
-- Web application development
-- Mobile app development
-- UI/UX implementation
-- API integration
-- Performance optimization
-- Code review and mentoring
+- [Web application development](https://sameersabir.dev/services/web-application-development)
+- [Mobile app development](https://sameersabir.dev/services/mobile-app-development)
+- [UI/UX implementation](https://sameersabir.dev/services/ui-ux-implementation)
+- [Code review and mentoring](https://sameersabir.dev/blog/mastering-typescript-advanced-patterns)
+- [API integration](https://sameersabir.dev/services/api-integration)
+- [Performance optimization](https://sameersabir.dev/services/performance-optimization)
+- [Custom AI chatbots](https://sameersabir.dev/services/ai-chatbot-development)
 
 ## Latest Writing
 
-- [Micro-Frontends: Scaling Large React Applications in 2026](https://sameersabir.dev)
-- [The Rise of AI-Assisted Frontend Development in 2026](https://sameersabir.dev)
-- [Zero-JavaScript Architecture: When and How to Use It Effectively in 2026](https://sameersabir.dev)
+- [Micro-Frontends: Scaling Large React Applications in 2026](https://sameersabir.dev/blog/micro-frontends-scaling-react-2026)
+- [The Rise of AI-Assisted Frontend Development in 2026](https://sameersabir.dev/blog/ai-assisted-frontend-2026)
+- [Zero-JavaScript Architecture: When and How to Use It Effectively in 2026](https://sameersabir.dev/blog/zero-javascript-architecture-2026)
 
 ## Tech Stack
 
@@ -144,3 +148,13 @@ Completed a four-year computer science program focused on software development, 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+## Contact
+
+- Portfolio: [sameersabir.dev](https://sameersabir.dev)
+- Email: [contact@sameersabir.dev](mailto:contact@sameersabir.dev)
+- Phone / WhatsApp: [+923020404364](tel:+923020404364)
+- LinkedIn: [linkedin.com/in/sameer-sabir](https://www.linkedin.com/in/sameer-sabir/)
+- GitHub: [github.com/sameerbjs](https://github.com/sameerbjs)
+- Upwork: [upwork.com/freelancers/~01edf32cc6111a8ee4](https://www.upwork.com/freelancers/~01edf32cc6111a8ee4)
+- Book a call: [calendly.com/sameersabir-business/30min](https://calendly.com/sameersabir-business/30min)
