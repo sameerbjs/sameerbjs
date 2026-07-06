@@ -1,19 +1,20 @@
 # Sameer Sabir
 
-### Senior Frontend Developer | React, Next.js, React Native
+### Senior Frontend Engineer | React, Next.js, React Native
 
 I design and build responsive, accessible, and performant web and mobile products. My core focus is turning ideas, Figma designs, and complex workflows into polished production applications with React, Next.js, TypeScript, Tailwind CSS, and React Native.
 
 I am based in Lahore and work remotely with clients worldwide, including the USA, UK, Europe, Middle East, and Australia. I am available for freelance work, contract projects, and long-term product partnerships.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sameersabir.dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://sameersabir.dev)
-[![Email](https://img.shields.io/badge/Email-sameersabir.business%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameersabir.business@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40sameersabir.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sameersabir.dev)
+[![Phone](https://img.shields.io/badge/Phone-%2B923020404364-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923020404364)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sameersabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameersabir)
 [![Book a Call](https://img.shields.io/badge/Book%20a%20Call-30%20min-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/sameersabir-business/30min)
 
 ## About Me
 
-- Currently working as a Senior Frontend Developer at BJS Soft Solutions, building production-ready React.js and Next.js applications.
+- Senior Frontend Engineer with experience building production-ready React.js and Next.js applications at BJS Soft Solutions.
 - Specialized in frontend architecture, responsive UI, API integration, performance optimization, SEO basics, and scalable state management.
 - Experienced with web applications, SaaS platforms, dashboards, marketplaces, mobile apps, and AI-powered product workflows.
 - I use agentic AI-assisted delivery with tools like Codex and Claude to speed up implementation while keeping the final code clean, reviewed, and maintainable.
@@ -47,8 +48,8 @@ I am based in Lahore and work remotely with clients worldwide, including the USA
 
 ### BJS Soft Solutions
 
-**Senior Frontend Developer**  
-**Aug 2021 - Present**
+**Senior Frontend Engineer**  
+**Aug 2021 - Jun 2026**
 
 - Led development of multiple production-ready applications with React.js and Next.js.
 - Built scalable UI architecture and Redux-based state management flows.
@@ -143,23 +144,3 @@ Completed a four-year computer science program focused on software development, 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=sameerbjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=sameerbjs&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sameerbjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sameerbjs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://komarev.com/ghpvc/?username=sameerbjs&icon=0&color=0)](https://visitcount.itsvg.in)
