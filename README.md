@@ -155,6 +155,6 @@ Completed a four-year computer science program focused on software development, 
 - Email: [contact@sameersabir.dev](mailto:contact@sameersabir.dev)
 - Phone / WhatsApp: [+923020404364](tel:+923020404364)
 - LinkedIn: [linkedin.com/in/sameer-sabir](https://www.linkedin.com/in/sameer-sabir/)
-- GitHub: [github.com/sameerbjs](https://github.com/sameerbjs)
+- GitHub: [github.com/sameersabirdev](https://github.com/sameersabirdev)
 - Upwork: [upwork.com/freelancers/~01edf32cc6111a8ee4](https://www.upwork.com/freelancers/~01edf32cc6111a8ee4)
 - Book a call: [calendly.com/sameersabir-business/30min](https://calendly.com/sameersabir-business/30min)
